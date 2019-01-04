@@ -72,6 +72,6 @@ Based on the feedback from perceptual realism, it turns out that we can fool the
 
 ## Authors
 
+* **Wen Xu**
 * **Yuxin Ding** 
-* **Wen Xu** 
 
